@@ -1,0 +1,9 @@
+{
+  "baseUrl": "http://automationpractice.com",
+  "env": {
+    "TAGS": "@run",
+    "timeout": 5000
+  },
+  "retries": 1,
+  "testFiles": "**/*.feature"
+}
